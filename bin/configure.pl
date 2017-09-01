@@ -1,4 +1,4 @@
-#!https://summacyberlogica.github.io/usr/perl/bin/perl -wT
+#!/usr/perl/bin/perl.exe -wT
 # See bottom of file for license and copyright information
 
 =begin TML
