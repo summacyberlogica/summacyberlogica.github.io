@@ -1,1 +1,0 @@
-jQuery(function(a){a(".jqMasonry:not(.jqInitedMasonry)").livequery(function(){var c=a(this);c.addClass("jqInitedMasonry");var b=a.extend({},c.metadata());c.masonry(b)})});

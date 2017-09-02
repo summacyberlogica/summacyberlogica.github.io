@@ -1,1 +1,0 @@
-jQuery(function(a){a(".jqCycle:not(.jqInitedCycle)").livequery(function(){var c=a(this);var b=a.extend({},c.metadata());c.addClass(".jqInitedCycle").cycle(b)})});

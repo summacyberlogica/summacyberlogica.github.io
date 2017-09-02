@@ -1,1 +1,0 @@
-jQuery(function(a){a(".jqTabPane:not(.jqInitedTabpane)").livequery(function(){var b=a(this);b.addClass("jqInitedTabpane");b.tabpane()})});

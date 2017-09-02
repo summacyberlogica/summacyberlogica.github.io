@@ -1,1 +1,0 @@
-(function(a){a(function(){window.setTimeout(function(){try{a(".jqFocus:first").focus()}catch(b){}},200)})})(jQuery);
